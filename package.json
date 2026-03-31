@@ -1,0 +1,14 @@
+{
+  "name": "dublai-backend",
+  "version": "1.0.0",
+  "description": "Backend for Dublai",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^5.13.3",
+    "dotenv": "^16.0.0"
+  }
+}
